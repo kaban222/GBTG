@@ -1,2 +1,5 @@
 flask
 aiogram==2.25.1
+beautifulsoup4
+urllib3==1.26.6
+requests
